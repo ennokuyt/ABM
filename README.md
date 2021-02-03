@@ -35,11 +35,6 @@
     <a href="https://github.com/ennokuyt/ABM"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/ennokuyt/ABM">View Demo</a>
-    ·
-    <a href="https://github.com/ennokuyt/ABM/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/ennokuyt/ABM/issues">Request Feature</a>
   </p>
 </p>
 
@@ -63,8 +58,6 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
