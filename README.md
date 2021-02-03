@@ -27,7 +27,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">ABM Poelmann Readme</h3>
+  <h3 align="center">ABM Group Poelmann Readme</h3>
 
   <p align="center">
     Modelling the social influence in the iterated prisoner's dilemma using a network with Facebook data
@@ -116,13 +116,15 @@ The packages that are required and how to install them (using pip) are as follow
 
 ### Installation
 
-To reproduce the results, only the **ABM_Classes_SA.ipynb**, **ABM_Plots.ipynb** and **ABM_stochastic_simulation.ipynb** need to be downloaded. These then need to be put in the same folder, and opened with Jupyter Notebook. 
+To reproduce the results, only the **ABM_Classes_SA.ipynb**, **ABM_Plots.ipynb** and **ABM_stochastic_simulation.ipynb** files need to be downloaded. These then need to be put in the same folder, and opened with Jupyter Notebook. In case the sensitivity analysis is too time-consuming, one could also download the files that are found in the **output_data** folder. 
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+1. Open the **ABM_Classes_SA.ipynb** file and run all cells. The second-to-last cell will run the OFAT SA, the last cell will run the Sobol SA. If everything functioned properly, all required files will be saved in the same folder. 
+
+2. Open the **ABM_Classes_SA.ipynb** file and run all cells.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
