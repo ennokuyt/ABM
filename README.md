@@ -197,7 +197,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://github.com/ennokuyt/ABM/blob/main/README.md
+[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/ennokuyt/ABM/graphs/contributors
 [forks-shield]: https://github.com/ennokuyt/ABM/network
 [forks-url]: https://github.com/ennokuyt/ABM/network/members
