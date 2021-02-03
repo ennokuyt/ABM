@@ -123,6 +123,7 @@ The resulting plots can be used for analysis, reports and presentations. To repr
 ## Contact
 
 [Enno Kuyt](https://github.com/ennokuyt) - enno.kuyt@hotmail.com
+<br />
 [Susy Maijer](https://github.com/Poelmann) -  susy.maijer@student.uva.nl
 [Sven Poelmann](https://github.com/susymaijer) - s.poelmann@xs4all.nl
 [Marija Puljic](https://github.com/MarijaPulj) - marija.puljic3@gmail.com
