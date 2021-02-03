@@ -125,8 +125,11 @@ The resulting plots can be used for analysis, reports and presentations. To repr
 [Enno Kuyt](https://github.com/ennokuyt) - enno.kuyt@hotmail.com
 <br />
 [Susy Maijer](https://github.com/Poelmann) -  susy.maijer@student.uva.nl
+<br />
 [Sven Poelmann](https://github.com/susymaijer) - s.poelmann@xs4all.nl
+<br />
 [Marija Puljic](https://github.com/MarijaPulj) - marija.puljic3@gmail.com
+<br />
 [Jingxin Xu](https://github.com/Jingxin002) - jingxin.xu.002@gmail.com
 
 
