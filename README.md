@@ -116,7 +116,7 @@ The packages that are required and how to install them (using pip) are as follow
 
 ### Installation
 
-To reproduce the results, only the ABM_Classes_SA.ipynb, ABM_Plots.ipynb and ABM_stochastic_simulation.ipynb need to be downloaded. These then need to be put in the same folder, and opened with Jupyter Notebook. 
+To reproduce the results, only the **ABM_Classes_SA.ipynb**, **ABM_Plots.ipynb** and **ABM_stochastic_simulation.ipynb** need to be downloaded. These then need to be put in the same folder, and opened with Jupyter Notebook. 
 
 
 <!-- USAGE EXAMPLES -->
