@@ -116,18 +116,16 @@ The packages that are required and how to install them (using pip) are as follow
 
 ### Installation
 
-To reproduce the results, only the **ABM_Classes_SA.ipynb**, **ABM_Plots.ipynb** and **ABM_stochastic_simulation.ipynb** files need to be downloaded. These then need to be put in the same folder, and opened with Jupyter Notebook. In case the sensitivity analysis is too time-consuming, one could also download the files that are found in the **output_data** folder. 
-
+To reproduce the results, only the **ABM_Classes_SA.ipynb**, **ABM_Plots.ipynb** and **ABM_stochastic_simulation.ipynb** files need to be downloaded. These then need to be put in the same folder, and opened with Jupyter Notebook. In case the sensitivity analysis is too time-consuming, one could also download the files that are found in the **output_data** folder. These should be saved to the same folder as the notebook files. If that is the case, one can skip Step 1 of the Usage section. 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-1. Open the **ABM_Classes_SA.ipynb** file and run all cells. The second-to-last cell will run the OFAT SA, the last cell will run the Sobol SA. If everything functioned properly, all required files will be saved in the same folder. 
+1. Open the **ABM_Classes_SA.ipynb** file and run all cells. The second-to-last cell will run the OFAT SA, the last cell will run the Sobol SA. If everything functioned properly, all required files will be saved to the working folder. 
 
-2. Open the **ABM_Classes_SA.ipynb** file and run all cells.
+2. Open the **ABM_Plots.ipynb** file and run all cells. The output data files should be in the working folder for the cells to run without errors. The figures are  shown in the notebook, and are also saved to the working folder.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
-
+The resulting plots can be used for analysis, reports and presentations. To reproduce the stochastic simulations performed for stability analysis and the creation of the base case, one should use the functions provided in **ABM_stochastic_simulation.ipynb**. These must be copied to the **ABM_Classes_SA.ipynb** file to work properly. These were left out of the main ABM file to keep the main file organised and clear for the reader. 
 
 
 <!-- ROADMAP -->
