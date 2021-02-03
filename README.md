@@ -63,7 +63,6 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -116,7 +115,7 @@ The packages that are required and how to install them (using pip) are as follow
 
 ### Installation
 
-To reproduce the results, only the **ABM_Classes_SA.ipynb**, **ABM_Plots.ipynb** and **ABM_stochastic_simulation.ipynb** files need to be downloaded. These then need to be put in the same folder, and opened with Jupyter Notebook. In case the sensitivity analysis is too time-consuming, one could also download the files that are found in the **output_data** folder. These should be saved to the same folder as the notebook files. If that is the case, one can skip Step 1 of the Usage section. 
+To reproduce the results, only the **ABM_Classes_SA.ipynb**, **ABM_Plots.ipynb** and **ABM_stochastic_simulation.ipynb** files need to be downloaded. These then need to be put in the same folder, and opened with Jupyter Notebook. In case the sensitivity analysis is too time-consuming, one could also download the files that are found in the **output_data** folder. These should be saved to the same folder as the notebook files. If that is the case, one can skip Step 1 of the **Usage** section and only execute Step 2. 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -127,46 +126,23 @@ To reproduce the results, only the **ABM_Classes_SA.ipynb**, **ABM_Plots.ipynb**
 
 The resulting plots can be used for analysis, reports and presentations. To reproduce the stochastic simulations performed for stability analysis and the creation of the base case, one should use the functions provided in **ABM_stochastic_simulation.ipynb**. These must be copied to the **ABM_Classes_SA.ipynb** file to work properly. These were left out of the main ABM file to keep the main file organised and clear for the reader. 
 
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
-
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+[Enno Kuyt](https://github.com/ennokuyt) - enno.kuyt@hotmail.com
+[Susy Maijer](https://github.com/Poelmann) -  susy.maijer@student.uva.nl
+[Sven Poelmann](https://github.com/susymaijer) - s.poelmann@xs4all.nl
+[Marija Puljic](https://github.com/MarijaPulj) - marija.puljic3@gmail.com
+[Jingxin Xu](https://github.com/Jingxin002) - jingxin.xu.002@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+
+Project Link: [https://github.com/ennokuyt/ABM](https://github.com/ennokuyt/ABM)
 
 
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+* [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
 * [Img Shields](https://shields.io)
 * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Pages](https://pages.github.com)
@@ -177,9 +153,6 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 * [Sticky Kit](http://leafo.net/sticky-kit)
 * [JVectorMap](http://jvectormap.com)
 * [Font Awesome](https://fontawesome.com)
-
-
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
