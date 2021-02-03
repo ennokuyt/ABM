@@ -80,44 +80,43 @@ This Github Repository provides the code and corresponding results of an Agent-B
 
 ### Built With
 
-The following frameworks were utilised to design the models in our code. Some examples that can be found in the corresponding documentations served as inspiration for parts of our own code. 
+The following frameworks were utilised to create the models in our code. Some examples that can be found in the corresponding documentations served as inspiration for parts of our own code. 
+
+* [Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/stable/)
 * [Mesa](https://mesa.readthedocs.io/en/stable/)
 * [Axelrod](https://axelrod.readthedocs.io/en/stable/)
 * [Networkx](https://readthedocs.org/projects/networkx/)
 * [SALib](https://salib.readthedocs.io/en/latest/)
 
 
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+In this Readme, it is assumed that the reader has a working python environment, including a jupyter notebook framework.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
+The packages that are required and how to install them (using pip) are as follows:
+* mesa
   ```sh
-  npm install npm@latest -g
+  pip install mesa
+  ```
+* axelrod
+  ```sh
+  pip install axelrod
+  ```
+* networkx
+  ```sh
+  pip install networkx
+  ```
+* SALib
+  ```sh
+  pip install SALib
   ```
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
+To reproduce the results, only the ABM_Classes_SA.ipynb, ABM_Plots.ipynb and ABM_stochastic_simulation.ipynb need to be downloaded. These then need to be put in the same folder, and opened with Jupyter Notebook. 
 
 
 <!-- USAGE EXAMPLES -->
